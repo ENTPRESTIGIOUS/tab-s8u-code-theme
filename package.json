@@ -1,0 +1,42 @@
+{
+  "name": "tab-s8-ultra-code-theme",
+  "displayName": "Tab S8 Ultra Code Theme",
+  "description": "VSCode theme made for Tab S8 Ultra!",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "high contrast",
+    "tab s8 ultra",
+    "tab s8u",
+    "tab s8",
+    "tab s8 ultra code theme",
+    "tab s8u code theme",
+    "tab s8 code theme",
+    "tab s8 ultra theme",
+    "tab s8u theme",
+    "tab s8 theme",
+    "tab s8 ultra code",
+    "tab s8u code",
+    "tab s8 code",
+    "tab s8 ultra",
+    "tab s8u",
+    "tab s8"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tab S8U Code Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tab S8U Code Theme-color-theme.json"
+      }
+    ]
+  }
+}
